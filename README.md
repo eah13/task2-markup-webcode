@@ -32,8 +32,8 @@ You need to do the following things in before you dig into the rest of the instr
 
 You will need to do the following for the assignment to be considered complete. The knowledge necessary for all of this is in the class session notes. 
 
-1. Choose and fork a Jekyll theme for your website.  I will provide a list of recommended themes.
-2. Edit the configuration and put your site online at http://YOUR-GITHUB-USERNAME.github.io.
+1. Choose a Jekyll theme for your website.  I will provide a list of recommended themes. **Clone** the theme to a new Cloud9 workspace.  Install jekyll with `gem install github-pages`
+2. Edit the configuration and put your site online at http://YOUR-GITHUB-USERNAME.github.io. You will need to change the url of `origin` to do this.
 3. Edit and customize the style of your site.
 4. Create pages relevant to your purpose (e.g. - an "about" page, a "projects" page, an "interests and hobbies" page, etc.). 
 5. Ensure that your site has sensible navigation (i.e. - Can I get to all of the pages you have created? Is this process intuitive?)
